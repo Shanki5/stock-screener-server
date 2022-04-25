@@ -1,0 +1,19 @@
+{
+  "name": "stock-screener-api",
+  "version": "1.0.0",
+  "description": "Backend application to help screen stocks for value investing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shankrith S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1",
+    "postman-request": "^2.88.1-postman.31",
+    "validation": "^0.0.1"
+  }
+}
